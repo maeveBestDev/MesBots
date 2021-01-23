@@ -12,13 +12,13 @@
      aria-label="Rechercher parmi le contenu du site">
     <button>Rechercher</button>
   </div>
-</form><img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 150px;" />
-<img class="project-pic" src="https://www.cjoint.com/doc/19_07/IGlaldVKmeP_Omake-Gif-Anime---Kakegurui-XX---OP---Yumeko-Dances.gif" style="width: 150px;" />
-<img class="project-pic" src="https://pa1.narvii.com/7729/84599e0001a4e23f937b9520c34013d9389dd240r1-300-300_hq.gif" style="width: 150px;" />
+</form><img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 150px;" />
+<img class="project-pic" src="https://i.imgur.com/feMxjOm.gif" style="width: 150px;" />
+<img class="project-pic" src="https://steamuserimages-a.akamaihd.net/ugc/271724616138907790/0ADCB64947688CCD966377BC795C6A1FCEFB3F96/" style="width: 150px;" />
 <p></p>
-<img class="project-pic" src="https://acegif.com/wp-content/uploads/2020/07/anime-sleep.gif" style="width: 150px;" />
-<img class="project-pic" src="https://media0.giphy.com/media/N4AIdLd0D2A9y/giphy.gif" style="width: 150px;" />
-<img class="project-pic" src="https://media1.giphy.com/media/FIZ1QC610AAhi/source.gif" style="width: 150px;" />
+<img class="project-pic" src="https://media1.tenor.com/images/b1fb43bd9e5b096680d9656f90ad9874/tenor.gif?itemid=14532357" style="width: 150px;" />
+<img class="project-pic" src="https://trancentral.tv/wp-content/uploads/2016/05/tumblr_naijtnYkeu1qhccbco1_1280.gif" style="width: 150px;" />
+<img class="project-pic" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" style="width: 150px;" />
 
 <p></p>
     <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
