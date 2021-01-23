@@ -21,12 +21,11 @@
 <img class="project-pic" src="https://media1.giphy.com/media/FIZ1QC610AAhi/source.gif" style="width: 150px;" />
 
 <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</button>
+    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil></button>
     <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
     <p></p>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
     <p></p>
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
-  <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil
+
