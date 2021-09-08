@@ -18,7 +18,7 @@
       <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 150px;" />
 
 <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
+    <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
     <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
