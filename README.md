@@ -14,7 +14,7 @@
   </div>
 </form>
       <h1>Bot Discord :</h1>
-      <h1><strong>Ultime Bot</strong></h1><a> (bot de modération)</a>
+      <h1><strong>Ultime Bot</strong></h1><h2> (bot de modération)</h2>
       <p>  </p>
       
       <p>[description]</p>
