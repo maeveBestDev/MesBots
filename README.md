@@ -15,6 +15,10 @@
 </form>
       <h1>Bot Discord :</h1>
       <h1><strong>Ultimate Bot</strong> (bot de modération)</h1>
+      <p>  </p>
+      
+      <p>[description]</p>
+      
       <div class="conteneur-flexbox">
   <div class="box">
     <p class="click"></p>
