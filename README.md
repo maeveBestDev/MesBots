@@ -12,20 +12,15 @@
      aria-label="Rechercher parmi le contenu du site">
     <button>Rechercher</button>
   </div>
-</form><img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 150px;" />
-<img class="project-pic" src="https://i.imgur.com/feMxjOm.gif" style="width: 150px;" />
-<img class="project-pic" src="https://steamuserimages-a.akamaihd.net/ugc/271724616138907790/0ADCB64947688CCD966377BC795C6A1FCEFB3F96/" style="width: 150px;" />
-<p></p>
-<img class="project-pic" src="https://media1.tenor.com/images/b1fb43bd9e5b096680d9656f90ad9874/tenor.gif?itemid=14532357" style="width: 150px;" />
-<img class="project-pic" src="https://trancentral.tv/wp-content/uploads/2016/05/tumblr_naijtnYkeu1qhccbco1_1280.gif" style="width: 150px;" />
-<img class="project-pic" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" style="width: 150px;" />
+</form>
+      <h1>Bot Discord :</h1>
+      <h1><strong>Ultimate Bot</strong> (bot de modération)</h1>
+      <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 150px;" />
 
 <p></p>
     <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
     <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
-    <p></p>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
-    <p></p>
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
 
