@@ -20,7 +20,7 @@
       <p><strong>Ultime Bot</strong> est un bot Discord principalement conçue pour la modération mais dispose d'autres fonctionalités. <strong>Ultime Bot</strong> est mon premier bot discord et m'as donc servis de test. Voici la liste des commades et de leur foncionalité :</p>
       <p>-commande help, pour avoir une description des autres commandes.</p>
       <p>-commandes de ban / kick... Pour ban ou kick les membres.</p>
-      <p>-commande pour dire bonjour, envoyer un 2 GIF déferent.</p>
+      <p>-commande pour dire bonjour, envoyer 2 GIF différents.</p>
       <p>-commande pour que le bot répère le message envoyer par me membre qui écrit la commande + une version où le message est embed.</p>
       <p>[autres commandes à ajouter]</p>
       
