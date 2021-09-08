@@ -23,9 +23,9 @@
   <div class="box">
     <p class="click"></p>
     <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
-      <a href="https://media.discordapp.net/attachments/884718653348667412/885099544356982854/Screenshot_4.png" data-lightbox="image-1">
+      <a href="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" data-lightbox="image-1">
         <!--le lien vers la petite image carrée qui sert de vignette -->
-      <img src="https://media.discordapp.net/attachments/884718653348667412/885099544356982854/Screenshot_4.png" style="width: 450px;"></a>
+      <img src="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" style="width: 450px;"></a>
   </div>
 
 <p></p>
