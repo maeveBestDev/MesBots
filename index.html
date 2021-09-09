@@ -18,7 +18,7 @@
       <h1><strong>Ultime Bot</strong> (bot de modération)</h1>
       <p>  </p>
       
-      <p><strong>Ultime Bot</strong> est un bot Discord principalement conçue pour la modération mais dispose d'autres fonctionalités. <strong>Ultime Bot</strong> est mon premier bot discord et m'as donc servis de test. Voici la liste des commades et de leur foncionalité :</p>
+      <p><strong>Ultime Bot</strong> est un bot Discord principalement conçue pour la modération mais dispose d'autres fonctionnalités. <strong>Ultime Bot</strong> est mon premier bot discord et m'a donc servi de test. Voici la liste des commandes et de leur fonctionnalité :</p>
       <p>-commande help, pour avoir une description des autres commandes.</p>
       <p>-commandes de ban / kick... Pour ban ou kick les membres.</p>
       <p>-commande pour dire bonjour, envoyer 2 GIF différents.</p>
