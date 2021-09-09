@@ -29,9 +29,9 @@
     <div class="box">
     <p class="click"></p>
         <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
-        <a href="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" data-lightbox="image-1">
+        <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" data-lightbox="image-1">
         <!--le lien vers la petite image carrée qui sert de vignette -->
-        <img src="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" style="width: 450px;"></a>
+        <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" style="width: 450px;"></a>
     </div>
             
           <p>Quelques exemples de commandes :</p>
@@ -40,36 +40,36 @@
     <div class="box">
          <p class="click"></p>
          <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
-         <a href="https://media.discordapp.net/attachments/884718653348667412/885412131074347038/Screenshot_6.png" data-lightbox="image-1">
+         <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/885412131074347038/Screenshot_6.png" data-lightbox="image-1">
          <!--le lien vers la petite image carrée qui sert de vignette -->
-         <img src="https://media.discordapp.net/attachments/884718653348667412/885412131074347038/Screenshot_6.png" style="width: 450px;"></a>
+         <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885412131074347038/Screenshot_6.png" style="width: 450px;"></a>
     </div>
 
         <div class="conteneur-flexbox">
     <div class="box">
     <p class="click"></p>
          <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
-         <a href="https://media.discordapp.net/attachments/884718653348667412/885412132500418571/Screenshot_17.png" data-lightbox="image-1">
+         <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/885412132500418571/Screenshot_17.png" data-lightbox="image-1">
          <!--le lien vers la petite image carrée qui sert de vignette -->
-         <img src="https://media.discordapp.net/attachments/884718653348667412/885412132500418571/Screenshot_17.png" style="width: 450px;"></a>
+         <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885412132500418571/Screenshot_17.png" style="width: 450px;"></a>
   </div>
                         
         <div class="conteneur-flexbox">
     <div class="box">
         <p class="click"></p>
         <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
-        <a href="https://media.discordapp.net/attachments/884718653348667412/885412141354590218/Screenshot_18.png" data-lightbox="image-1">
+        <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/885412141354590218/Screenshot_18.png" data-lightbox="image-1">
         <!--le lien vers la petite image carrée qui sert de vignette -->
-        <img src="https://media.discordapp.net/attachments/884718653348667412/885412141354590218/Screenshot_18.png" style="width: 450px;"></a>
+        <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885412141354590218/Screenshot_18.png" style="width: 450px;"></a>
   </div>                     
    
         <div class="conteneur-flexbox">
     <div class="box">
     <p class="click"></p>
         <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
-        <a href="https://media.discordapp.net/attachments/884718653348667412/885412145657962496/Screenshot_19.png" data-lightbox="image-1">
+        <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/885412145657962496/Screenshot_19.png" data-lightbox="image-1">
         <!--le lien vers la petite image carrée qui sert de vignette -->
-        <img src="https://media.discordapp.net/attachments/884718653348667412/885412145657962496/Screenshot_19.png" style="width: 450px;"></a>
+        <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885412145657962496/Screenshot_19.png" style="width: 450px;"></a>
   </div>
                     
                       <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=427)"></div>
