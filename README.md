@@ -24,7 +24,7 @@
       <p>-commande pour que le bot répère le message envoyer par me membre qui écrit la commande + une version où le message est embed.</p>
       <p>[autres commandes à ajouter]</p>
       
-    <div class="conteneur-flexbox">
+        <div class="conteneur-flexbox">
     <div class="box">
     <p class="click"></p>
         <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
@@ -32,8 +32,10 @@
         <!--le lien vers la petite image carrée qui sert de vignette -->
         <img src="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" style="width: 450px;"></a>
     </div>
+            
           <p>Quelques exemples de commandes :</p>
-    <div class="conteneur-flexbox">
+            
+        <div class="conteneur-flexbox">
     <div class="box">
          <p class="click"></p>
          <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
@@ -42,7 +44,7 @@
          <img src="https://media.discordapp.net/attachments/884718653348667412/885412131074347038/Screenshot_6.png" style="width: 450px;"></a>
     </div>
 
-    <div class="conteneur-flexbox">
+        <div class="conteneur-flexbox">
     <div class="box">
     <p class="click"></p>
          <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
@@ -51,7 +53,7 @@
          <img src="https://media.discordapp.net/attachments/884718653348667412/885412132500418571/Screenshot_17.png" style="width: 450px;"></a>
   </div>
                         
-    <div class="conteneur-flexbox">
+        <div class="conteneur-flexbox">
     <div class="box">
         <p class="click"></p>
         <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
@@ -60,7 +62,7 @@
         <img src="https://media.discordapp.net/attachments/884718653348667412/885412141354590218/Screenshot_18.png" style="width: 450px;"></a>
   </div>                     
    
-    <div class="conteneur-flexbox">
+        <div class="conteneur-flexbox">
     <div class="box">
     <p class="click"></p>
         <!--le lien vers la grande image qui sera affichée lors du clic sur la vignette carrée -->
