@@ -72,7 +72,7 @@
         <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885412145657962496/Screenshot_19.png" style="width: 450px;"></a>
   </div>
                     
-                      <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=427)"></div>
+                      <div class="image" style="background-image: url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=427)"></div>
             
 <p></p>
     <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
