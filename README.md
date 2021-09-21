@@ -1,4 +1,4 @@
-<html lang="fr">
+<html lang="en">
     <head>
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
@@ -15,16 +15,16 @@
     <button>Rechercher</button>
   </div>
 </form>
-      <h1>Bot Discord :</h1>
-      <h1><strong>Ultime Bot</strong> (bot de modération)</h1>
+      <h1>Discord Bot :</h1>
+      <h1><strong>Ultime Bot</strong> (moderation bot)</h1>
       <p>  </p>
       
-      <p><strong>Ultime Bot</strong> est un bot Discord principalement conçue pour la modération mais dispose d'autres fonctionnalités. <strong>Ultime Bot</strong> est mon premier bot discord et m'a donc servi de test. Voici la liste des commandes et de leur fonctionnalité :</p>
-      <p>-commande help, pour avoir une description des autres commandes.</p>
-      <p>-commandes de ban / kick... Pour ban ou kick les membres.</p>
-      <p>-commande pour dire bonjour, envoyer 2 GIF différents.</p>
-      <p>-commande pour que le bot répère le message envoyer par me membre qui écrit la commande + une version où le message est embed.</p>
-      <p>[autres commandes à ajouter]</p>
+      <p><strong>Ultime Bot</strong> is a Discord bot primarily designed for moderation but has other features. <strong>Ultime Bot</strong> is my first discord bot and therefore served as a test. Here is the list of commands and their functionality :</p1>
+      <p1>-Command help, for a description of the other commands.</p1>
+      <p1>-Commands ban / kick... To ban or kick the members.</p1>
+      <p1>-Commands to say "hello" and send 2 differents GIF.</p1>
+      <p1>-Command so that the bot retrieves the message sent by the member who writes the command + a version where the message is embed.</p>
+      <p1>[other commands to add]</p1>
       
         <div class="conteneur-flexbox">
     <div class="box">
@@ -35,7 +35,7 @@
         <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885118871319748638/Screenshot_5.png" style="width: 450px;"></a>
     </div>
             
-          <p>Quelques exemples de commandes :</p>
+          <p>Some examples of commands :</p>
             
         <div class="conteneur-flexbox">
     <div class="box">
@@ -75,9 +75,9 @@
                     
             
 <p></p>
-    <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil</a></button>
+    <button><a href="https://maevebestdev.github.io/Main_Page/">Back to Home</a></button>
     <p> </p>
-    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
+    <a href="https://maevebestdev.github.io/About_Us/">About me</a>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
-    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
+    <a href="https://maevebestdev.github.io/Contact_Us/">Contact me</a>
 
