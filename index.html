@@ -10,7 +10,7 @@
     <form role="search">
   <div>
     <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
+     placeholder="Search the site..."
      aria-label="Rechercher parmi le contenu du site">
     <button>Research</button>
   </div>
