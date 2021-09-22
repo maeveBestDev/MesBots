@@ -12,18 +12,18 @@
     <input type="search" id="maRecherche" name="q"
      placeholder="Rechercher sur le site…"
      aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
+    <button>Research</button>
   </div>
 </form>
       <h1>Discord Bot :</h1>
-      <h1><strong>Ultime Bot</strong> (moderation bot)</h1>
+      <h2><strong>Ultime Bot</strong> (moderation bot)</h2>
       <p>  </p>
       
       <p><strong>Ultime Bot</strong> is a Discord bot primarily designed for moderation but has other features. <strong>Ultime Bot</strong> is my first discord bot and therefore served as a test. Here is the list of commands and their functionality :</p1>
       <p1>-Command help, for a description of the other commands.</p1>
       <p1>-Commands ban / kick... To ban or kick the members.</p1>
       <p1>-Commands to say "hello" and send 2 differents GIF.</p1>
-      <p1>-Command so that the bot retrieves the message sent by the member who writes the command + a version where the message is embed.</p>
+      <p1>-Command so that the bot retrieves the message sent by the member who writes the command + a version where the message is embed.</p1>
       <p1>[other commands to add]</p1>
       
         <div class="conteneur-flexbox">
